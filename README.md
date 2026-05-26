@@ -1,4 +1,4 @@
-# Awesome EDR Evasion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome EDR Evasion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/ruleaker/awesome-edr-evasion/actions/workflows/lint.yml/badge.svg)](https://github.com/ruleaker/awesome-edr-evasion/actions/workflows/lint.yml)
 
 > A curated list of resources for EDR/AV evasion research and red team tradecraft.
 
